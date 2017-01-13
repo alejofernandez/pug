@@ -1,6 +1,6 @@
 {
   "name": "jade",
-  "repo": "visionmedia/jade",
+  "repo": "alejofernandez/pug",
   "description": "Jade template runtime",
   "version": "1.11.0",
   "keywords": [
